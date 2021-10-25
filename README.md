@@ -9,9 +9,6 @@ This project uses the following technologies:
 - [MongoDB](https://www.mongodb.com/) for the database
 - [Redux](https://redux.js.org/basics/usagewithreact) for state management between React components
 
-## Medium Series
-
-components-88190f8db718)
 
 ## Configuration
 
