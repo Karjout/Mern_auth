@@ -17,7 +17,7 @@ Make sure to add your own `MONGOURI` from your [mLab](http://mlab.com) database 
 ```javascript
 module.exports = {
   mongoURI: "YOUR_MONGO_URI_HERE",
-  secretOrKey: "secret"
+  secretOrKey: "secret_code"
 };
 ```
 
